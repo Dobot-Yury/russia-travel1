@@ -1,0 +1,10 @@
+.photo-grid__items{
+    max-width: 1184px;
+    min-width: 288px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(284px,1fr));
+    grid-auto-flow: row;
+    grid-auto-rows: minmax(min-content,max-content);
+    gap: 16px;
+    margin: 0 auto;
+}

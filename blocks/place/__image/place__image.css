@@ -1,0 +1,27 @@
+.place__image{
+    max-width: 320px;
+    grid-column: 1;
+    grid-row: 2;
+    margin-bottom: 32px;
+}
+
+@media screen and (min-width:768px) {
+    .place__image {
+        max-width: 340px;
+        margin: 0;
+        grid-column: 1;
+        grid-row: 2;
+    }
+}
+
+@media screen and (min-width:1024px) {
+    .place__image {
+      max-width: 440px;
+    }
+}
+
+@media screen and (min-width:1280px) {
+    .place__image {
+      max-width: 460px;
+    }
+}
