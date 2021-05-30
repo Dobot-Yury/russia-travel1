@@ -4,4 +4,4 @@
 
 В этой работе был задействован ряд базовых технологий: flexbox верстка, именование блоков, элементов и модификаторов по технологии БЭМ, Grid Layout
 
-* [Ссылка на мой сайт](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+* [Ссылка на мой сайт](https://dobot-yury.github.io/russia-travel1/)
