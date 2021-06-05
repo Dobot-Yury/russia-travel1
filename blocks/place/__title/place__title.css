@@ -6,6 +6,7 @@
     line-height: 35px;
     color: #FFFFFF;
     margin: 0;
+    margin-left: 16px;
     grid-area: title;
 }
 
@@ -14,6 +15,7 @@
         font-size: 42px;
         line-height: 46px;
         max-width: 440px;
+        margin: 0;
    }
 }
 
